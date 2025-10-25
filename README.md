@@ -1,4 +1,4 @@
-# Ticket Booking — DevOps Assignment (Ready-to-Push)
+# Ticket Booking — DevOps Assignment 
 
 This repository contains a minimal web-based ticket booking service and a full set of DevOps artifacts:
 - Flask app (app.py)

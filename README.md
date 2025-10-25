@@ -7,7 +7,7 @@ This repository contains a minimal web-based ticket booking service and a full s
 - Kubernetes manifests (k8s/)
 - README with all commands and pipeline steps for evaluation
 
-## Branching / Version control (GitFlow)
+## Branching / Version control (GitFlow) ....
 Initialize repository and follow GitFlow:
 ```
 git init
